@@ -3,4 +3,42 @@
     Layout = "~/Views/Shared/LayoutShopCamera.cshtml";
 }
 
-
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TSach>
+<p> @TempData["Message"] </p>
+<a asp-action="ThemSanPhamMoi" asp-route-maSach="item.MaSach">Thêm</a>
+@foreach(var item in Model)
+{
+    <div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+        <div class="product-item bg-light mb-4">
+            <div style="width:100%; height:350px; object-fit:cover;" class="product-img">
+                <img class="w-100" src="@Url.Content("../Sach/" + item.FileAnh)">
+                <div class="product-action">
+                    <a class="btn btn-outline-dark btn-square rounded-0" href="#"><i class="fa fa-shopping-cart"></i></a>
+                    <a class="btn btn-outline-dark btn-square rounded-0" href="#"><i class="far fa-heart"></i></a>
+                </div>
+            </div>
+            <div class="text-center py-4 product-info">
+                <a class="product-info__name" href="#">@item.TenSach</a>
+                <div class="d-flex align-items-center justify-content-center mt-2">
+                    <h5>@item.GiaTriSach</h5>
+                </div>
+                <div class="d-flex align-items-center justify-content-center mb-1">
+                    <small class="fa fa-star text-primary me-1"></small>
+                    <small class="fa fa-star text-primary me-1"></small>
+                    <small class="fa fa-star text-primary me-1"></small>
+                    <small class="fa fa-star text-primary me-1"></small>
+                    <small class="fa fa-star text-primary me-1"></small>
+                    <small>(99)</small>
+                </div>
+            </div>
+            <div class="desc">
+                <h2><a asp-action="SuaSanPham" asp-route-maSach="@item.MaSach">Sửa</a></h2>
+                <h2><a asp-action="XoaSanPham" asp-route-maSach="@item.MaSach">Xoá</a></h2>
+            </div>
+        </div>
+    </div>
+}
+<div class="product__pagination">
+ @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+ </div>

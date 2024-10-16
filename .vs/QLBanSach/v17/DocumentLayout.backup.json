@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\shared\\layoutshopcamera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\shared\\layoutshopcamera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\shared\\layoutshopcamera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\shared\\layoutshopcamera.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\home\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\home\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\home\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\home\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|d:\\n\u0103m 3\\l\u1EADp tr\u00ECnh web\\workspace\\qlbansach\\qlbansach\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE87812-438E-4525-AE66-973F990DCDB4}|QLBanSach\\QLBanSach.csproj|solutionrelative:qlbansach\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +66,138 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Home\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "QLBanSach\\Views\\Home\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Home\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "QLBanSach\\Views\\Home\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:33:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Home\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "QLBanSach\\Views\\Home\\SuaSanPham.cshtml",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Home\\SuaSanPham.cshtml",
+              "RelativeToolTip": "QLBanSach\\Views\\Home\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:30:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLBanSach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLBanSach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:06:31.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Models\\ProductModels\\Product.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "QLBanSach\\Models\\ProductModels\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:15:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "QLBanSach\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:14:47.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "QLBanSach\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "QLBanSach\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T10:01:34.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "QLBanSach\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:00:03.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiSpRepository.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Repository\\LoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Repository\\LoaiSpRepository.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Repository\\LoaiSpRepository.cs",
+              "RelativeToolTip": "QLBanSach\\Repository\\LoaiSpRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:55:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILoaiSpRepository.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Repository\\ILoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Repository\\ILoaiSpRepository.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Repository\\ILoaiSpRepository.cs",
+              "RelativeToolTip": "QLBanSach\\Repository\\ILoaiSpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:53:17.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLBanSach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "QLBanSach\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:15:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LayoutShopCamera.cshtml",
               "DocumentMoniker": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\LayoutShopCamera.cshtml",
               "RelativeDocumentMoniker": "QLBanSach\\Views\\Shared\\LayoutShopCamera.cshtml",
               "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Shared\\LayoutShopCamera.cshtml",
               "RelativeToolTip": "QLBanSach\\Views\\Shared\\LayoutShopCamera.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwBAAArAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAAewOsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-16T08:42:57.239Z",
               "EditorCaption": ""
@@ -45,9 +210,10 @@
               "RelativeDocumentMoniker": "QLBanSach\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\N\u0103m 3\\L\u1EADp tr\u00ECnh web\\Workspace\\QLBanSach\\QLBanSach\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "QLBanSach\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T08:40:03.645Z"
+              "WhenOpened": "2024-10-16T08:40:03.645Z",
+              "EditorCaption": ""
             }
           ]
         }

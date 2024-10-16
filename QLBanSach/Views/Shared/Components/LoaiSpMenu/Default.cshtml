@@ -1,0 +1,69 @@
+﻿@model IEnumerable<TLoaiSach>
+
+<nav class="navbar-category navbar-light bg-light position-absolute collapse" id="collapseNavbar">
+    <div class="navbar-nav w-100">
+        <div class="nav-item dropend">
+            @foreach(var item in Model)
+            {
+                var getUrl = "https://localhost:7290/api/ProductAPI/" + item.MaLoai;
+                <a style="cursor:pointer" onclick="showProduct('@getUrl')" class="dropend-toggle nav-link d-flex align-items-center justify-content-between w-100" data-bs-toggle="dropdown" aria-expanded="false">
+                    @item.TenLoai
+                </a>
+            }
+        </div>
+
+    </div>
+</nav>
+
+
+      
+
+
+
+<script>
+    function showProduct(getUrl) {
+        var str = '';
+
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function(data) {
+                $.each(data, function(key, val) {
+                    
+                    str += `<div class="col-lg-3 col-md-4 col-sm-6 pb-1">
+            <div class="product-item bg-light mb-4">
+                    <div style="width:100%; height:350px; object-fit:cover;" class="product-img">
+                    <img class="w-100" src="../Sach/${val.fileAnh}">
+                    <div class="product-action">
+                        <a class="btn btn-outline-dark btn-square rounded-0" href="#"><i class="fa fa-shopping-cart"></i></a>
+                        <a class="btn btn-outline-dark btn-square rounded-0" href="#"><i class="far fa-heart"></i></a>
+                    </div>
+                </div>
+                <div class="text-center py-4 product-info">
+                    <a class="product-info__name" href="#">${val.maLoai}</a>
+                    <div class="d-flex align-items-center justify-content-center mt-2">
+                        <h5>$123.00</h5>
+                        <h6 class="text-muted ms-2 text-decoration-line-through">${val.giaTriSach}</h6>
+                    </div>
+                    <div class="d-flex align-items-center justify-content-center mb-1">
+                        <small class="fa fa-star text-primary me-1"></small>
+                        <small class="fa fa-star text-primary me-1"></small>
+                        <small class="fa fa-star text-primary me-1"></small>
+                        <small class="fa fa-star text-primary me-1"></small>
+                        <small class="fa fa-star text-primary me-1"></small>
+                        <small>(99)</small>
+                    </div>
+                </div>
+            </div>
+        </div>`
+                });
+                $('#displayProducts').html(str);
+              
+            },
+            error: function (xhr) {
+                alert(xhr.responseText)
+            }
+        });
+    }
+</script>
